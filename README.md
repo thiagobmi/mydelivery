@@ -22,68 +22,68 @@ This application is designed with flexibility in mind, making it easy for restau
 ### Home Page
 
 - **Light Mode**  
-  ![Home Page - Light Mode](image.png)
+  ![Home Page - Light Mode](/assets/screenshots/image.png)
 
 - **Dark Mode**  
-  ![Home Page - Dark Mode](image-1.png)
+  ![Home Page - Dark Mode](/assets/screenshots/image-1.png)
 
 ### Menu Exploration
 
 - **Explore Menu - Light Mode (Desktop)**  
-  ![Explore Menu - Light Mode - Desktop](image-2.png)
+  ![Explore Menu - Light Mode - Desktop](/assets/screenshots/image-2.png)
 
 - **Explore Menu - Dark Mode (Desktop)**  
-  ![Explore Menu - Dark Mode - Desktop](image-3.png)
+  ![Explore Menu - Dark Mode - Desktop](/assets/screenshots/image-3.png)
 
 - **Explore Menu - Light Mode (Mobile)**  
-  ![Explore Menu - Light Mode - Mobile](image-5.png)
+  ![Explore Menu - Light Mode - Mobile](/assets/screenshots/image-5.png)
 
 ### Item Details
 
 - **Item Detail - Light Mode (Desktop)**  
-  ![Item Detail - Light Mode - Desktop](image-4.png)
+  ![Item Detail - Light Mode - Desktop](/assets/screenshots/image-4.png)
 
 - **Item Detail - Light Mode (Mobile)**  
-  ![Item Detail - Light Mode - Mobile](image-6.png)
+  ![Item Detail - Light Mode - Mobile](/assets/screenshots/image-6.png)
 
 ### Cart and Checkout
 
 - **Cart - Light Mode (Mobile)**  
-  ![Cart - Light Mode - Mobile](image-8.png)
+  ![Cart - Light Mode - Mobile](/assets/screenshots/image-8.png)
 
 - **Checkout - Dark Mode (Desktop)**  
-  ![Checkout - Dark Mode - Desktop](image-7.png)
+  ![Checkout - Dark Mode - Desktop](/assets/screenshots/image-7.png)
 
 ### Orders
 
 - **Orders - Dark Mode (Desktop)**  
-  ![Orders - Dark Mode - Desktop](image-9.png)
+  ![Orders - Dark Mode - Desktop](/assets/screenshots/image-9.png)
 
 - **Orders - Light Mode (Mobile)**  
-  ![Orders - Light Mode - Mobile](image-10.png)
+  ![Orders - Light Mode - Mobile](/assets/screenshots/image-10.png)
 
 ### Profile Page
 
 - **Profile - Light Mode (Desktop)**  
-  ![Profile - Light Mode - Desktop](image-11.png)
+  ![Profile - Light Mode - Desktop](/assets/screenshots/image-11.png)
 
 - **Profile - Dark Mode (Mobile)**  
-  ![Profile - Dark Mode - Mobile](image-12.png)
+  ![Profile - Dark Mode - Mobile](/assets/screenshots/image-12.png)
 
 ### Admin Panel
 
 The admin panel can be accessed by navigating to `/admin`.
 
 - **Admin Page**  
-  ![Admin Page](image-14.png)
+  ![Admin Page](/assets/screenshots/image-14.png)
 
 ### Authentication
 
 - **Sign Up - Light Mode (Desktop)**  
-  ![Sign Up - Light Mode - Desktop](image-15.png)
+  ![Sign Up - Light Mode - Desktop](/assets/screenshots/image-15.png)
 
 - **Sign In - Dark Mode (Desktop)**  
-  ![Sign In - Dark Mode - Desktop](image-16.png)
+  ![Sign In - Dark Mode - Desktop](/assets/screenshots/image-16.png)
 
 ## Installation
 
