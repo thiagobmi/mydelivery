@@ -5,6 +5,12 @@ MyDelivery is a fullstack delivery website built using **Next.js**, **TypeScript
 
 This application is designed with flexibility in mind, making it easy for restaurants and similar businesses to customize and adapt it to their specific needs.
 
+## Live Demo
+
+You can view the live version of the MyDelivery frontend here:
+
+🔗 [Live Demo](https://mydelivery-thiagobmi.vercel.app/)
+
 ## Features
 
 - 🌐 **Responsive Design**: Optimized for both mobile and desktop devices.
