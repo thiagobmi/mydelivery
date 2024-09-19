@@ -19,12 +19,12 @@ export const useAuth = () => {
 
       if (!res.ok) throw new Error()
 
-      toast.success('Desconectado com sucesso!')
+      toast.success('Succesfully signed out!')
 
       router.push('/sign-in')
       router.refresh()
     } catch (err) {
-      toast.error("Não foi possível desconectar. Tente novamente.")
+      toast.error("Please try again later.")
     }
   }
 
