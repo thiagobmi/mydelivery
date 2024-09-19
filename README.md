@@ -76,27 +76,27 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-bash
+```bash
 git clone https://github.com/yourusername/MyDelivery.git
-
+```
 
 2. Navigate to the project directory:
 
-bash
+```bash
 cd MyDelivery
-
+```
 
 3. Install dependencies using Yarn:
 
-bash
+```bash
 yarn install
-
+```
 
 4. Start the development server:
 
-bash
+```bash
 yarn dev
-
+```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
