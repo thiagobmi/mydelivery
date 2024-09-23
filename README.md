@@ -1,6 +1,7 @@
 
-![MyDelivery Logo](/assets/logo7.png)
+![logo7 (1)](https://github.com/user-attachments/assets/701ed770-43a2-40c7-96d9-94f8a132936e)
 ---
+
 MyDelivery is a fullstack delivery website built using **Next.js**, **TypeScript**, **Tailwind CSS**, and **tRPC**. This project is fully responsive, ensuring an optimal user experience across various devices. Additionally, it supports both **dark mode** and **light mode** themes for a visually appealing interface. The project also includes an **admin dashboard** powered by **Payload CMS** for managing content.
 
 This application is designed with flexibility in mind, making it easy for restaurants and similar businesses to customize and adapt it to their specific needs.
