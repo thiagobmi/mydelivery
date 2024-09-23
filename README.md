@@ -99,7 +99,17 @@ cd mydelivery
 yarn install
 ```
 
-4. Start the development server:
+4. Set up MongoDB:
+
+- Go to MongoDB Atlas and create a free account.
+- Follow the steps to create a new cluster. Once the cluster is set up, click "Connect" and select "Connect your application."
+- Copy the connection string provided (e.g., mongodb+srv://<username>:<password>@cluster0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority).
+- Replace the <YOUR_MONGO_URL> placeholder in the `.env` file with this connection string, ensuring you add your username, password, and database name.
+```
+MONGO_URL=mongodb+srv://<username>:<password>@cluster0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+```
+
+5. Start the development server:
 
 ```bash
 yarn dev
