@@ -32,7 +32,7 @@ You can view the live version of the MyDelivery frontend here:
 |----------------------|---------------------|
 | ![Home Page - Light Mode](/assets/screenshots/image.png) | ![Home Page - Dark Mode](/assets/screenshots/image-1.png) |
 
-### Menu Exploration
+### Menu
 
 | Explore Menu (Desktop) | Explore Menu (Mobile) |
 |------------------------|-----------------------|
